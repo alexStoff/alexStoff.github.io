@@ -11,4 +11,5 @@ This is Alexander Stoffelmayr's website hosted by GitHub pages. [GitHub pages](h
 
 **Welcome**
 
-View my resume in the navigation bar!
+Download Resume here:
+[Resume](https://alexstoff.github.io/files/Alexander%20Stoffelmayr%20Resume.pdf)
