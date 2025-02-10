@@ -11,54 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Science, Computer Engineering, 2025 (expected)
+  * Minor: Science Technology and Law
+
+Skills
+======
+* FPGA design and programming
+  * Verilog HDL
+  * Quartus Prime / Altera
+  * Model Sim
+* Embedded Systems Development
+  * Code Composer Studio for TI embedded processors
+* Electronics design
+  * LT SPICE
+  * Prototype board use
+  * Soldering
+  * Oscilloscope and Spectrum Analysis tools
+* CAD modeling and design
+  * SolidWorks & Fusion360
+* Programming Languages (in order of experience)
+  * C++
+  * C
+  * MIPS Assembly & Instruction Set Architecture
+  * Java
+  * Python
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Systems Engineering Internship
+  * Northrop Grumman
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Access Monitor
+  * Ravinia Music Venue
+  * Reviewed credentials and managed access for employees, deliveries, and musicians.
+  * Provided support to customers and employees at the venue entrance
+  * Assistant Facilities Manager: Steve Siegel
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
