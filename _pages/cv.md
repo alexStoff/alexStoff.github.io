@@ -36,6 +36,17 @@ Skills
   * Java
   * Python
 
+Relevant Classes
+======
+* Digital Design & Digital Systems 	
+* Physical Electronics	
+* Embedded Systems			
+* Principals of Computer Architecture
+* Network Application Design		
+* Data Structures & Algorithms
+* Signals and Systems 			
+* Computational Engineering	
+
 
 Work experience
 ======
