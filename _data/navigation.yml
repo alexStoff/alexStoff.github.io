@@ -6,7 +6,7 @@ s# The following is the order of the links in the header of the website.
 
 main:
   - title: "Resume"
-    url: /files/
+    url: https://alexstoff.github.io/files/Alexander%20Stoffelmayr%20Resume.pdf
 
   - title: "Classes"
     url: /classes/    
