@@ -13,8 +13,8 @@ redirect_from:
 ======
 ### Technical Lead
 Working as part of a five-person design team to develop a framework for integrating SIMRAD Halo 20+ marine radar on a small unmanned aerial system (sUAS).
-* Working closely with our sponsors at the MITRE Low-Cost Unmanned Swarming Technology (LOCUST) team.
-* Defining goals specific to the technical implementation of the system.
+* Working closely with our sponsors at the MITRE Low-Cost Unmanned Swarming Technology (LOCUST) team to assess the feasibility of using commercial marine radar as a low-cost option for local observation capability.
+* As technical lead, defined goals specific to the technical implementation of the radar and drone systems.
 
 **Graphic Equalizer & Class D amplifier**
 ======
