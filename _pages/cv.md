@@ -45,7 +45,9 @@ Relevant Classes
 * Network Application Design		
 * Data Structures & Algorithms
 * Signals and Systems 			
-* Computational Engineering	
+* Computational Engineering
+* Circuits and devices
+* Applied Software Design
 
 
 Work experience
